@@ -26,7 +26,9 @@ ___
 ## **Project design:**
  
  Class diagram of the Contact Manager App:
-![Cless Diagram](umldesigns\Class-diagram-for-Contact-app-Lucidchart.png)
+
+ ![Class-diagram-for-Contact-app-Lucidchart](https://user-images.githubusercontent.com/69518859/175786691-15ccec74-083b-4e5e-9e3f-4c6b5ff82051.png)
+
 
 The current storage system for our Contact App is file system. It means we perform the CRUD operations with the help of local machine file system.
 Any new contact storage system should implement the operations of our abstract class `"ContactStorage"`.
@@ -50,7 +52,7 @@ The frontend of our Contact Manager hasnt been implemented yet. But you can perf
   <title>Contact Manager</title>
 </head>
 <body>
-    <h1>Interecting with Contect Meneger with its EPI</h1>
+    <h1>Interacting with Contact Manager with its API</h1>
 <script>
  
   window.addEventListener('load',function(e){
