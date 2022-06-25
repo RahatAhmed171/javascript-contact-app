@@ -1,0 +1,1 @@
+{"DUMMYCONTACT1":{"name":"DUMMYCONTACT1","phone":"12345678","email":"example@gmail.com'"},"#####":{"name":"#####","phone":"01813242018132430312516630","email":"anyexample@gmail.com"},"DUMMYCONTACT2":{"name":"DUMMYCONTACT2","phone":"99999","email":"example@gmail.com"},"#####":{"name":"#####","phone":"0312516630","email":"anyexample@gmail.com"}
